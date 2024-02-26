@@ -1,4 +1,4 @@
-### Hi there 👋
+### Dev
 ![](https://github.com/gitarcane/gitarcane/blob/main/GIF%20from%20GIFER.gif)
 <!--
 **gitarcane/gitarcane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
